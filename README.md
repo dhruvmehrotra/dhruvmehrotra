@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🥷 TECHNICAL SKILLS
 
-A comprehensive list of some of the technologies I have previously worked on, sorted by category.
+A comprehensive list of the technologies I have previously worked on, sorted by category.
 
 ### ☁️ AWS <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff" alt="Amazon Web Services Badge">&nbsp;&nbsp; 
  
