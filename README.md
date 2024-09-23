@@ -22,38 +22,12 @@ Here are some ideas to get you started:
 A comprehensive list of the technologies I have previously worked on, sorted by category.
 
 ### ☁️ AWS <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff" alt="Amazon Web Services Badge">&nbsp;&nbsp; 
- 
-<img src="https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff" alt="AWS Amplify Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=fff" alt="Amazon API Gateway Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20AppSync-FF4F8B?logo=amazonapigateway&logoColor=fff" alt="Amazon AppSync Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff" alt="Amazon CloudWatch Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20Cognito-DD344C?logo=amazoncognito&logoColor=fff" alt="Amazon Cognito Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff" alt="Amazon DynamoDB Badge"> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff" alt="Amazon EC2 Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20ECS-F90?logo=amazonecs&logoColor=fff" alt="Amazon ECS Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff" alt="Amazon EKS Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Fargate-F90?logo=awsfargate&logoColor=fff" alt="AWS Fargate Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff" alt="AWS Lambda Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=fff" alt="Amazon RDS Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?logo=amazonroute53&logoColor=fff" alt="Amazon Route 53 Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?logo=awssecretsmanager&logoColor=fff" alt="AWS Secrets Manager Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff" alt="Amazon S3 Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20Simple%20Email%20Service-DD344C?logo=amazonsimpleemailservice&logoColor=fff" alt="Amazon Simple Email Service Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20SNS-DD344C?logo=amazonsqs&logoColor=fff" alt="Amazon Simple Notification Service Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff" alt="Amazon SQS Badge">&nbsp;&nbsp;
+
+![AWS](https://github.com/user-attachments/assets/6dba7df6-3935-4f8e-ae69-3dcfca1c5269)
   
 ### ☁️ Azure <img src="https://badgen.net/static/%20/Azure?icon=azure" alt="Azure">&nbsp;&nbsp; 
 
-<img src="https://img.shields.io/badge/Azure%20App%20Service-2F93E0?logo=azure&logoColor=fff" alt="Azure App Service Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Container%20Registry-2F93E0?logo=azure&logoColor=fff" alt="Azure Containter Registry Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20CosmosDB-2F93E0?logo=azure&logoColor=fff" alt="Azure CosmoDB">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-2F93E0?logo=azure&logoColor=fff" alt="Microsoft Entra ID Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Functions-2F93E0?logo=azure&logoColor=fff" alt="Azure Functions Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-2F93E0?logo=azure&logoColor=fff" alt="Azure Kubernetes Service Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Service%20Bus-2F93E0?logo=azure&logoColor=fff" alt="Azure Service Bus Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Service%20Fabric-2F93E0?logo=azure&logoColor=fff" alt="Azure Service Fabric Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Storage-2F93E0?logo=azure&logoColor=fff" alt="Azure Storage Badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Virtual%20Machines-2F93E0?logo=azure&logoColor=fff" alt="Azure Virtual Machines">&nbsp;&nbsp;
+![Azure](https://github.com/user-attachments/assets/a8a97cf0-8290-42a1-8342-e1cc7bb436b3)
 
 ### 📲 CI/CD Tools
 
